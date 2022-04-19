@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DavesWonder, Kenyan Nationality. 
-- 👀 I’m interested in the art of coding, back-end systems, web and software development.
-- 🌱 Been to several code bootcamps, still learning javascript, html and python languages.
-- 💞️ I’m looking to collaborate in future projects, I'm open to learn as well.
-- 📫 How to reach me @ig wonder.daves
+- 👋 Hi, I’m @DavesWonder, developer based in Nairobi, Kenya. 
+- 👀 I’m interested in web and software development.
+- 🌱 Been to several code bootcamps, I work on java and python projects.
+- 💞️ Open to learning other languages.
+- 📫 Contacts @ig wonder.daves, email: wonderdaves14@gmail.com
 
 <!---
 DavesWonder/DavesWonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
